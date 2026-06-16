@@ -153,9 +153,9 @@ function Landing() {
           <h3 className="mt-5 text-2xl font-semibold">Shobhan Satpathy</h3>
           <p className="mt-2 text-muted-foreground">Computer Science Student · AI &amp; ML Enthusiast</p>
           <div className="mt-6 flex justify-center gap-3">
-            <SocialBtn href="https://github.com/" icon={Github} label="GitHub" />
-            <SocialBtn href="https://linkedin.com/" icon={Linkedin} label="LinkedIn" />
-            <SocialBtn href="mailto:hello@example.com" icon={Mail} label="Email" />
+            <SocialBtn href="https://github.com/Shobhan-04" icon={Github} label="GitHub" />
+            <SocialBtn href="https://www.linkedin.com/in/shobhanengineer/" icon={Linkedin} label="LinkedIn" />
+            <SocialBtn href="mailto:shobhansatpathy04@gmail.com" icon={Mail} label="Email" />
           </div>
         </div>
       </Section>
@@ -288,9 +288,9 @@ function Footer() {
           <span>© {new Date().getFullYear()} Scribexa AI · Built by Shobhan Satpathy</span>
         </div>
         <div className="flex gap-2">
-          <SocialBtn href="https://github.com/" icon={Github} label="GitHub" />
-          <SocialBtn href="https://linkedin.com/" icon={Linkedin} label="LinkedIn" />
-          <SocialBtn href="mailto:hello@example.com" icon={Mail} label="Email" />
+          <SocialBtn href="https://github.com/Shobhan-04" icon={Github} label="GitHub" />
+          <SocialBtn href="https://www.linkedin.com/in/shobhanengineer/" icon={Linkedin} label="LinkedIn" />
+          <SocialBtn href="mailto:shobhansatpathy04@gmail.com" icon={Mail} label="Email" />
         </div>
       </div>
     </footer>
