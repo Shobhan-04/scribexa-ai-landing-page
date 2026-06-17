@@ -52,7 +52,7 @@ Streamlit App:
 ---
 
 ## Project Structure
-
+```
 scribexa-ai-landing-page/
 │
 ├── README.md
@@ -114,8 +114,10 @@ scribexa-ai-landing-page/
 │
 ├── .lovable/
 │   └── project.json
+```
 
 ---
+
 ## Developer
 
 Shobhan Satpathy
