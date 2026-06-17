@@ -117,6 +117,21 @@ scribexa-ai-landing-page/
 ```
 
 ---
+## 📷 Screenshots
+
+### Landing Page
+
+![Landing Page](assets/landing-page.png)
+
+### Features Section
+
+![Features](assets/features.png)
+
+### Architecture Diagram
+
+![Architecture](assets/architecture.png)
+
+---
 
 ## Developer
 
