@@ -122,6 +122,7 @@ scribexa-ai-landing-page/
 
 Shobhan Satpathy
 Computer Science Student | AI/ML Enthusiast | Full Stack Web Developer
+
 GitHub:
 (https://github.com/Shobhan-04)
 
